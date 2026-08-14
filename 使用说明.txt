@@ -1,0 +1,2 @@
+from WingRigTool import wing_ui
+wing_ui.show()
